@@ -1,4 +1,4 @@
-# helloworld插件
+# vscode插件开发教程-helloworld插件
 
 本文参考官方文档：[Your First Extension](https://code.visualstudio.com/api/get-started/your-first-extension)
 
@@ -104,7 +104,7 @@ context.subscriptions.push(anotherHelloDisposable);
 
 ### 项目构成
 
-项目最重要的两个文件时`package.json`和`src/extension.ts`，下面依次说明。 
+本项目最重要的两个文件时`package.json`和`src/extension.ts`，下面依次说明。 
 
 #### package.json
 
@@ -122,4 +122,5 @@ vscode API声明在[@types/vscode](https://www.npmjs.com/package/@types/vscode)�
 
 ## helloworld 结束
 
-本文演示的代码可以在[这里](https://github.com/a1576471428/vscode-demo)下载，但是推荐按照教程直接创建一个，也很容易。
+本文演示的代码可以在[这里](https://github.com/a1576471428/vscode-demo)下载，但是推荐按照教程直接创建一个，也很容易。  
+系列教程目录：[vscode插件开发教程](https://blog.csdn.net/qq_30794691/article/details/113063788)
