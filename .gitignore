@@ -2,3 +2,5 @@ node_modules/
 .git/
 .vscode/
 vscode-extension-samples/
+helloworld/
+dist/
