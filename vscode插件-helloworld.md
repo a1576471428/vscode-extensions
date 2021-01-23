@@ -122,4 +122,4 @@ vscode API声明在[@types/vscode](https://www.npmjs.com/package/@types/vscode)�
 
 ## helloworld 结束
 
-本文演示的代码可以在[这里]下载，但是推荐按照教程直接创建一个，也很容易。
+本文演示的代码可以在[这里](https://github.com/a1576471428/vscode-demo)下载，但是推荐按照教程直接创建一个，也很容易。
