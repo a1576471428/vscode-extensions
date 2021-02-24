@@ -104,7 +104,7 @@ context.subscriptions.push(anotherHelloDisposable);
 
 ### 项目构成
 
-本项目最重要的两个文件时`package.json`和`src/extension.ts`，下面依次说明。 
+本项目最重要的两个文件时`package.json`和`src/extension.ts`，下面依次说明。
 
 #### package.json
 
